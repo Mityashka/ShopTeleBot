@@ -5,7 +5,7 @@
 2. Создать проект
 3. Включить Google Sheets API и Google Drive API
 4. Создать сервисный аккаунт
-5. Скачать .json-файл ключа, положить в keys/service_account.json
+5. Скачать .json-файл ключа, создать папку keys, положить в keys/service_account.json
 6. В .env указать TELEGRAM_TOKEN от бота
 7. В configs.py занести:
 - spreadsheet_id(id таблицы)
