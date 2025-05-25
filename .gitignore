@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Keys and secrets
+keys/
+!keys/.gitkeep
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Excel or data exports
+*.xlsx
+*.xls
+*.csv
+
+# Compiled files
+*.so
+
+# dotenv
+.env
+.venv
